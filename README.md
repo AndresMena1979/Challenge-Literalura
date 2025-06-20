@@ -32,6 +32,7 @@ Este proyecto es una aplicación de consola desarrollada en **Java con Spring Bo
 
 ## 🧱 Estructura del proyecto
 
+
 src/
 ├── main/
 │ ├── java/
@@ -43,6 +44,10 @@ src/
 │ │ └── api/ # Consumo de la API y conversión de datos
 │ └── resources/
 │ └── application.properties # Configuración de la base de datos
+
+
+
+
 
 
 ---
