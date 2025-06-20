@@ -19,7 +19,7 @@ private Long id;
     private String fechaDeNacimiento;
     private String fechaDeDeceso;
 
-    @Column(name = "numero_de_descargas")
+    //@Column(name = "numero_de_descargas")
     private double numeroDeDescargas;
 
 
