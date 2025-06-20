@@ -53,9 +53,8 @@ src/
    ```bash
    git clone https://github.com/AndresMena1979/Challenge-Literalura
 
-    Entra al directorio:
+    Entra al directorio: cd Challenge-Literalura
 
-cd Challenge-Literalura
 
 Ejecuta la aplicación desde tu IDE (IntelliJ, VSCode, etc.) o con Maven:
 
