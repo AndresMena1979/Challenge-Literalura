@@ -33,7 +33,17 @@ Este proyecto es una aplicación de consola desarrollada en **Java con Spring Bo
 ## 🧱 Estructura del proyecto
 
 
-<pre> ```text src/ ├── main/ │ ├── java/ │ │ └── com.ejemplo.gutendex/ │ │ ├── model/ # Entidades: Libro, Autor │ │ ├── repository/ # Interfaces de JPA: LibroRepository, AutorRepository │ │ ├── service/ # Lógica de negocio │ │ ├── principal/ # Clase Principal con menú interactivo │ │ └── api/ # Consumo de la API y conversión de datos │ └── resources/ │ └── application.properties # Configuración de la base de datos ``` </pre>
+``````src/
+      ├── main/
+      │ ├── java/
+      │ │ └── com.ejemplo.gutendex/
+      │ │ ├── model/ # Entidades: Libro, Autor
+      │ │ ├── repository/ # Interfaces de JPA: LibroRepository, AutorRepository
+      │ │ ├── service/ # Lógica de negocio
+      │ │ ├── principal/ # Clase Principal con menú interactivo
+      │ │ └── api/ # Consumo de la API y conversión de datos
+      │ └── resources/
+      │ └── application.properties # Configuración de la base de datos
 
 ---
 
